@@ -12,7 +12,7 @@ In this project we'll begin to explore keeping code well-organized into logical 
 
 ### Part 1 - Starter Code
 
-Start with the assignment project in this repo: https://github.com/LambdaSchool/Android-Fundamentals-Sprint/tree/master/M03
+Start with the assignment project in the current repo.
 
 ### Part 2 - Add the appropriate packages
 
