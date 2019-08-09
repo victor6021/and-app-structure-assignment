@@ -2,6 +2,7 @@
 
 In this project we'll begin to explore keeping code well-organized into logical packages.
 
+
 ## Objectives
 
 - [ ] organize code between activities and models / classes
